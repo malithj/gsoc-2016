@@ -1,0 +1,12 @@
+Package: demovector
+Type: Package
+Title: An implementation of vector addition using cpp integrated with R
+Version: 0.1
+Date: 2016-01-23
+Authors@R: person("Malith", "Jayaweera", email = "malithgsoc2016@gmail.com", role = c("aut", "cre"))
+Description: An implementation of vector addition using cpp integrated with R.
+    It combines the advantages of R and lower level processing of cpp.
+License: GPL
+LazyData: TRUE
+Depends: Rcpp
+RoxygenNote: 5.0.1.9000
